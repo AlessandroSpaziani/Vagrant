@@ -10,7 +10,7 @@
 <?php
 // Connessione al database MySQL
 $servername = "10.10.20.10"; // Cambiare con l'indirizzo del server MySQL
-$username = "Simmy"; // Cambiare con l'username del database
+$username = "User"; // Cambiare con l'username del database
 $password = "Password&1"; // Cambiare con la password del database
 $dbname = "databaseVagrant"; // Cambiare con il nome del database
 
